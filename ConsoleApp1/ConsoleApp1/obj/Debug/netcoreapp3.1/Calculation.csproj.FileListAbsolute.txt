@@ -1,0 +1,17 @@
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.exe
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.deps.json
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MaqaLibrary.dll
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MaqaLibrary.pdb
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.csproj.CopyComplete
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculation.genruntimeconfig.cache

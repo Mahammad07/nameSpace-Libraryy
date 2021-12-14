@@ -1,0 +1,10 @@
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\bin\Debug\netcoreapp3.1\MaqaLibrary.deps.json
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\bin\Debug\netcoreapp3.1\MaqaLibrary.dll
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\bin\Debug\netcoreapp3.1\MaqaLibrary.pdb
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.dll
+C:\Users\mehem\OneDrive\Desktop\homeworkk\ConsoleApp1\MaqaLibrary\obj\Debug\netcoreapp3.1\MaqaLibrary.pdb
